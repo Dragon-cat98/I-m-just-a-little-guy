@@ -1,5 +1,6 @@
-# I-m-just-a-little-guy
-A game where you're a little guy that causes havoc
+# I'm just a little guy
+A game where you're a little guy that causes havoc <br>
+made for the jame gam game jam <br>
 <img align = "right" width="450" height="228.495" alt="Screenshot 2026-10-25 205825" src="https://github.com/user-attachments/assets/0c0c6058-bf8e-4306-8796-6cfe9bd7cb5c" />
 https://dragoncat420.itch.io/im-just-a-little-guy
 
